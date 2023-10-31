@@ -50,7 +50,7 @@ with open("mbox.txt", "r") as file:
             count += 1
     print("Total %d lines were printed" %count)
 
-4
+# 4
 
 list1 = []
 
