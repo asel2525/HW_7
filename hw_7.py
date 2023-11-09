@@ -35,7 +35,7 @@ with open("romeo.txt", "r") as file:
             if word not in list1:
                 list1.append(word)
     list = sorted(list1)
-    print(list1)
+    print(list)
     
         
 # 3
